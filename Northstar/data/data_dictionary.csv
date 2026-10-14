@@ -1,0 +1,7 @@
+table,field,description
+customers,customer_id,Unique customer identifier
+customers,lead_source,Original acquisition channel
+products,unit_price,List selling price
+products,unit_cost,Approximate unit cost
+sales,discount,Decimal: 0.10 = 10%
+sales,status,Completed or Cancelled

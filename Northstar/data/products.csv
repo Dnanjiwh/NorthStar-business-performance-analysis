@@ -1,0 +1,10 @@
+product_id,product_name,category,unit_price,unit_cost
+P101,Pulse Wireless Earbuds,Audio,129,58
+P102,Studio ANC Headphones,Audio,219,104
+P103,Arc Bluetooth Speaker,Audio,159,72
+P201,Halo Smart Lamp,Home,119,49
+P202,Nest Air Purifier,Home,249,121
+P203,Flow Smart Plug,Home,49,16
+P301,Move Fitness Watch,Wearables,199,91
+P302,Core Activity Band,Wearables,89,35
+P303,Rest Sleep Tracker,Wearables,149,64
