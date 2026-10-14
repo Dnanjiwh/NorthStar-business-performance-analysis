@@ -2,7 +2,7 @@
 
 ## The Problem
 
-![Northstar Business Performance Dashboard](images/northstar_dashboard.png)
+![Northstar Business Performance Dashboard](images/NORTHSTAR BUSINESS PERFORMANCE DASHBOARD.png)
 
 Northstar's sales started falling in Q4.
 
